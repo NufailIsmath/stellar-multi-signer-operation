@@ -1,0 +1,14 @@
+{
+  "name": "multi-signer-operation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M. Nufail Ismath",
+  "license": "ISC",
+  "dependencies": {
+    "stellar-sdk": "^8.2.2"
+  }
+}

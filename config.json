@@ -1,0 +1,20 @@
+{
+    "accounts": {
+        "alice": {
+            "name": "Alice",
+            "publicKey": "GDQ4TUH2MPRZI7GJ37QCYELHYJCHGSSTDQN4R6J73HFK5X5XP5M2UCSY",
+            "secret": "SBMSKQ5ENKMQVAG46Z2UJBHLFZTYNFY4DHPEIO4YKHA23INEYTTELQTG"
+        },
+        "bob": {
+            "name": "Bob",
+            "publicKey": "GBH3ANL5Y52JRYNO2SDMH2OXH7RMR3LZYIZEBGXFKYW2UZRI4CEMYBXV",
+            "secret": "SCJHZODAMTLE5QVBKOTML4NB4BEN2AYFBRVUEJJPJUPGWS2L5JKRYBBC"
+        },
+        "cincinati": {
+            "name": "Cincinati",
+            "publicKey": "GDYFIDALXLHVMLHL3NKFIPKJEWT5SCGK5GYCT67WTDFPLV4ZSY3PRHW2",
+            "secret": "SB5I66JGOEISRYH66KMODZIXRA26YTLVF7HGC6E5XWQX72UZIXKGLQY7"
+        }
+    },
+    "serverUrl": "https://horizon-testnet.stellar.org"
+}
